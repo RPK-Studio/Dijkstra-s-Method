@@ -1,0 +1,63 @@
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe.config
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.pdb
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csprojAssemblyReference.cache
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.main.resources
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Properties.Resources.resources
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zastavka.resources
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.GenerateResource.cache
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.CoreCompileInputs.cache
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.exe
+E:\Для хранения\Паша\c#\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.pdb
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe.config
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.pdb
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.main.resources
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Properties.Resources.resources
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zastavka.resources
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.GenerateResource.cache
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.exe
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.pdb
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csprojResolveAssemblyReference.cache
+H:\Рабочий стол\пример\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zapros.resources
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe.config
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.pdb
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.pdb
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.main.resources
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Properties.Resources.resources
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zapros.resources
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zastavka.resources
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.GenerateResource.Cache
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.exe
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csprojAssemblyReference.cache
+H:\3 курс\ПП\Курсовая работа\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.CoreCompileInputs.cache
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe.config
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.pdb
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csprojAssemblyReference.cache
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.main.resources
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Properties.Resources.resources
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zapros.resources
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zastavka.resources
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.GenerateResource.cache
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.CoreCompileInputs.cache
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.exe
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.pdb
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe.config
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.exe
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\bin\Debug\Метод Дейксты.pdb
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.main.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Properties.Resources.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zapros.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.zastavka.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csproj.GenerateResource.cache
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.exe
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.pdb
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.SearchPath.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.SearchPath.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Form2.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Form3.resources
+H:\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод Дейксты.csprojResolveAssemblyReference.cache
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Form2.resources
+C:\Users\corte\OneDrive\Рабочий стол\Метод Дейксты\Метод Дейксты\obj\Debug\Метод_Дейксты.Form3.resources
